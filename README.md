@@ -2,6 +2,7 @@
 
 ## DAHBOARD 1: OVERVIEW ANALYSIS
 Analyse Uber trip data using Power BI to gain insights into booking trends, revenue, and trip efficiency, helping stakeholders make data-driven decisions.<br>
+
 KPI’s
 1.	Total Bookings – How many trips were booked over a given period?
 2.	Total Booking Value – What is the total revenue generated from all bookings?
