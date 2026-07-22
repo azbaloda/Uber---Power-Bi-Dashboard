@@ -36,3 +36,15 @@ Features of the Grid Tab:<br>
 •	A "View Full Data" bookmark to toggle between filtered drill-through data and the complete dataset. <br>
 •	Allows users to reset filters and see all records easily.
 
+
+## Dashboard Screenshots
+
+### Overview Analysis
+![Overview Analysis](screenshots/overview_analysis.png)
+
+### Time Analysis
+![Time Analysis](screenshots/time_analysis.png)
+
+### Details 
+![Detail View](screenshots/detail_view.png)
+
