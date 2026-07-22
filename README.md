@@ -40,11 +40,11 @@ Features of the Grid Tab:<br>
 ## Dashboard Screenshots
 
 ### Overview Analysis
-![Overview Analysis](screenshots/overview_analysis.png)
+![Overview Analysis](screenshots/Uber_Power_Bi_Details_Dashboard.png)
 
 ### Time Analysis
-![Time Analysis](screenshots/time_analysis.png)
+![Time Analysis](screenshots/Uber_Power_Bi_Time_Analysis_Dashboard.png)
 
 ### Details 
-![Detail View](screenshots/detail_view.png)
+![Detail View](screenshots/Uber_Power_Bi_Details_Dashboard.png)
 
